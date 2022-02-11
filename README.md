@@ -6,6 +6,8 @@
 <div class="box">
 
 
+    <link href="css/css.html" rel="stylesheet" />
+	
 <h1>The Philippine Red Cross' vision is to be the foremost humanitarian organization in the country.</h1>
 	<p><i> Embracing new and emerging technologies such as geographic information systems (GIS) helps us achieve our mission to bring timely, effective and compassionate humanitarian assistance to the most vulnerable without consideration of nationality, race, creed, gender, social status or political belief.
 
