@@ -1,12 +1,11 @@
 # PRC-FRONT-PAGE<html>
 <head>
-	<link rel="stylesheet" href="css/style.css" />
+	<link rel="stylesheet" href="css/html.css" />
 </head>
 <body>
 <div class="box">
 
 
-    <link href="css/css.html" rel="stylesheet" />
 	
 <h1>The Philippine Red Cross' vision is to be the foremost humanitarian organization in the country.</h1>
 	<p><i> Embracing new and emerging technologies such as geographic information systems (GIS) helps us achieve our mission to bring timely, effective and compassionate humanitarian assistance to the most vulnerable without consideration of nationality, race, creed, gender, social status or political belief.
@@ -18,9 +17,9 @@ This site has been created by the GIS team at Philippine Red Cross and maintaine
     
 <div class="btn-group">
 <a href="a.html"> 
-	<button class="button">BATANES ISLAND</button>
+	<button class="button">EMERGENCY</button>
 <a href="b.html"> 
-	<button class="button">CEBU CITY</button>
+	<button class="button">MAPS</button>
 <a href="c.html">
 	<button class="button">BAGUIO CITY</button>
 <a href="d.html">
