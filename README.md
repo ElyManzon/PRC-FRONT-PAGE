@@ -1,3 +1,3 @@
 # PHILIPPINE RED CROSS
 
-https://github.com/ElyManzon/PRC-FRONT-PAGE/
+https://elymanzon.github.io/PRC-FRONT-PAGE/
