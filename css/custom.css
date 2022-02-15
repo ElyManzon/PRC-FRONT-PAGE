@@ -87,6 +87,6 @@ body{
 }
 .button1:hover {
   background-color: #4CAF50;
-  color: white;
+  color: green;
 }
 .button1 {background-color: #4CAF50;} /* Green */
