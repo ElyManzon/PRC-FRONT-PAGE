@@ -85,8 +85,13 @@ body{
   height: 70%
   width: 60%
 }
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
 .button1:hover {
   background-color: #4CAF50;
-  color: green;
+  color: white;
 }
 .button1 {background-color: #4CAF50;} /* Green */
