@@ -73,26 +73,15 @@ body{
 }
 
 .button {
+  background-color: #4CAF50;
   border: none;
-  color: purple;
-  padding: 16px 32px;
+  color: white;
+  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 50px;
+  font-size: 16px;
   margin: 4px 2px;
-  transition-duration: 0.4s;
   cursor: pointer;
-  height: 50%
-  weight: 40%
-}#eca1a6
+}
 
-.button1 {
-  background-color: white; 
-  color: black; 
-  border: 2px solid #eca1a6;
-}
-.button1:hover {
-  background-color: #eca1a6;
-  color: purple;
-}
