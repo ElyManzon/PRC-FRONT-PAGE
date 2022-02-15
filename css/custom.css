@@ -82,5 +82,7 @@ body{
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+  height: 50%
+  width: 40%
 }
 .button1 {background-color: #4CAF50;} /* Green */
