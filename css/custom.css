@@ -85,14 +85,14 @@ body{
   cursor: pointer;
   height: 50%
   weight: 40%
-}
+}#eca1a6
 
 .button1 {
   background-color: white; 
   color: black; 
-  border: 2px solid #573391;
+  border: 2px solid #eca1a6;
 }
 .button1:hover {
-  background-color: #573391;
+  background-color: #eca1a6;
   color: purple;
 }
