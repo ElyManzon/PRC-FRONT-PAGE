@@ -67,3 +67,10 @@ body{
 .container-motto {
   background-color: black;
 }
+
+.button {
+  height:50px;
+  width:200px;
+  font-size:100%;
+  margin-left: 250px;
+  margin-right: 80px !important;
