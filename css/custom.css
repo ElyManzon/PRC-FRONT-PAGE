@@ -81,6 +81,12 @@ height:50px;
 width:200px;
 font-size:100%;
 margin-right:80px;
+  
+}
+
+.button1:hover {
+  background-color: #4CAF50
+    
 }
 
 .button2 { 
@@ -88,6 +94,7 @@ height:50px;
 width:200px;
 font-size:100%;
 margin-right:80px;
+  
 }
 
 .button3 {
@@ -95,4 +102,5 @@ height:50px;
 width:200px;
 font-size:100%;
 margin-right: 250px;
+  
 }
