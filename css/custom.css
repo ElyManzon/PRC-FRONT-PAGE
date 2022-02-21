@@ -68,34 +68,10 @@ body{
   background-color: black;
 }
 
-.button1 {
+.button {
   height:50px;
   width:200px;
   font-size:100%;
   margin-left: 250px;
   margin-right: 80px;
-}
-
-.button2 {
-height:50px;
-width:200px;
-font-size:100%;
-margin-right:80px;
-    
-}
-
-.button3 { 
-height:50px;
-width:200px;
-font-size:100%;
-margin-right:80px;
-  
-}
-
-.button4 {
-height:50px;
-width:200px;
-font-size:100%;
-margin-right: 250px;
-  
 }
