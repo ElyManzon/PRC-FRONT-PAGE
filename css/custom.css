@@ -9,6 +9,14 @@ body{
   padding-bottom: 40px;
 }
 
+.btn {
+  height:50px;
+  width:200px;
+  font-size:100%;
+  margin-left: 250px;
+  margin-right: 80px;
+}
+
 .btn-footer {
   display: block;
   height: 45px;
@@ -68,10 +76,3 @@ body{
   background-color: black;
 }
 
-.button {
-  height:50px;
-  width:200px;
-  font-size:100%;
-  margin-left: 250px;
-  margin-right: 80px;
-}
