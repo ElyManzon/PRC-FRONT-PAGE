@@ -9,14 +9,6 @@ body{
   padding-bottom: 40px;
 }
 
-.btn {
-  height:50px;
-  width:200px;
-  font-size:100%;
-  margin-left: 250px;
-  margin-right: 80px;
-}
-
 .btn-footer {
   display: block;
   height: 45px;
@@ -75,4 +67,28 @@ body{
 .container-motto {
   background-color: black;
 }
+.btn {
+  background-color: Grey;
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  padding: 15px 19px;
+  font-size: 10px;
+  cursor: pointer;  
+}
+.flex-parent {
+  display: flex;
+}
 
+.jc-center {
+  justify-content: center;
+}
+
+button.margin-right {
+  margin-right: 20px;
+}
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: Red;
+}
