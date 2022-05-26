@@ -201,6 +201,7 @@ bootstrap.min.css:5
   	text-align: center;
   	background-image:  url(../img/fp1.jpg);
   	vertical-align: middle;
+	opacity: 0.80;
 }
 
 .baner-content .text-content {
