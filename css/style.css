@@ -199,7 +199,7 @@ bootstrap.min.css:5
 	 width: 100%;
   	padding-top: 35vh;
   	text-align: center;
-  	background-image:  url(../img/test_dms2.jpg);
+  	background-image:  url(../img/fp1.jpg);
   	vertical-align: middle;
   	opacity: 0.99;
 }
@@ -258,7 +258,7 @@ bootstrap.min.css:5
 
 #about {
 	padding: 150px 0px;
-	background-image: url(../img/fp2_test2.jpg);
+	background-image: url(../img/fp2.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
