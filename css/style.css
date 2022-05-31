@@ -64,10 +64,9 @@ p {
 }
 
 .header.active .navbar-nav>li>a {
-	font-family: 'Open Sans', arial, sans-serif;
+	font-family: 'Arial', sans-serif;
 	font-size: 13px;
 	font-weight: 300;
-	letter-spacing: 0.5px;
 	text-transform: uppercase;
 	text-shadow: none;
 	color: #121212!important;
